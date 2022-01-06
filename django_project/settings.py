@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-1i#pzx0e=%331jqq0(off_*nck57%!md1v3+grt!@(sks9%e9)
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['limitless-caverns-82924.git', '127.0.0.1']
 
 
 # Application definition
